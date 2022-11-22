@@ -1,7 +1,7 @@
 ---
 name: User Story second template
 about: This is our second choice for a user story template
-title: SECOND USER STORE TEMPLATE
+title: USER STORY: 
 labels: ''
 assignees: ''
 
